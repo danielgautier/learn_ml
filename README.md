@@ -1,1 +1,1 @@
-execises and Projects to learn the basic of Machine learning
+execises and Projects to learn the basics of Machine learning
